@@ -8,7 +8,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m <a target="_blank" href="https://linkedin.com/in/codes18"> @Sajid Momin </a>
 
-![Profile Views](https://img.shields.io/static/v1?label=Profile%20Views&message=Welcome&color=0e75b6&style=flat)
+![Live Profile Views](https://views-counter.vercel.app/badge?pageId=codes18)
 
 - 💻 I'm a passionate **Frontend Developer** from India 🇮🇳
 - 🔭 I’m currently working on **Modern, responsive websites and web applications**
@@ -254,30 +254,13 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" width="30px"/>&nbsp;GitHub Stats & Activity:
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" width="30px"/>&nbsp;GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codes18&show_icons=true&theme=dark&hide_border=false" alt="Codes18 Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codes18&theme=dark&hide_border=false" alt="Codes18 Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes18&theme=dark&hide_border=false" alt="Top Languages" />
-</p>
-
-<!-- Live GitHub Contributions Graph -->
-<p align="center">
-  <a href="https://github.com/Codes18">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codes18&theme=github_dark"
-      alt="Codes18 GitHub Live Contribution Graph"
-      width="100%"
-    />
-  </a>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Codes18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codes18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Parrots -->
-<div align="center">
+<div align="left" style="padding-bottom:20px">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
   <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
   <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -289,3 +272,14 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/Codes18">
+    <img
+      src="https://activity-graph.vercel.app/graph?username=Codes18&theme=react-dark&area=true&hide_border=true&radius=16"
+      alt="Codes18 GitHub Activity Graph"
+      width="100%"
+      style="max-width: 100%; height: auto; border-radius: 16px;"
+    />
+  </a>
+</p>
