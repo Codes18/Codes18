@@ -276,9 +276,11 @@
 </div>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Codes18/Codes18/gh-pages/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <a href="https://github.com/Codes18">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Codes18&theme=tokyo-night&area=true&hide_border=true"
+      alt="Codes18 GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
