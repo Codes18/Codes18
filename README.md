@@ -24,7 +24,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Codes18](https://github.com/Codes18)
 - 💬 Ask me about **Frontend Development & Web Technologies**
 - ⚡ Fun fact: **I love turning creative ideas into beautiful, responsive websites! 🚀**
-- 📈 GitHub Activity: **Active daily contributor — check out my contribution graph below!**
 - 📫 How to reach me: **vivocodes18@gmail.com** or DM me on LinkedIn / Instagram
 
 ---
@@ -291,15 +290,13 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-### 📈 GitHub Contribution Activity Graph:
-
 <p align="center">
   <a href="https://github.com/Codes18">
     <img
-      src="https://activity-graph.vercel.app/graph?username=Codes18&theme=react-dark&area=true&hide_border=true&radius=16&custom_title=GitHub%20Contribution%20Activity&color=FFFFFF"
+      src="https://activity-graph.vercel.app/graph?username=Codes18&theme=react-dark&area=true&hide_border=true&radius=16"
       alt="Codes18 GitHub Activity Graph"
       width="100%"
-      style="max-width: 100%; height: auto; border-radius: 12px;"
+      style="max-width: 100%; height: auto; border-radius: 5px; font-size:20px;"
     />
   </a>
 </p>
