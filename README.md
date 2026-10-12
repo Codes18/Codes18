@@ -9,7 +9,10 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m <a target="_blank" href="https://linkedin.com/in/codes18"> @Sajid Momin </a>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codes18&label=Profile%20views&color=0e75b6&style=flat" alt="codes18 views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=codes18&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 - 💻 I'm a passionate **Frontend Developer** from India 🇮🇳
@@ -278,7 +281,7 @@
 <p align="center">
   <a href="https://github.com/Codes18">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Codes18&theme=tokyo-night&area=true&hide_border=true"
+      src="https://activity-graph.vercel.app/graph?username=Codes18&theme=tokyo-night&area=true&hide_border=true"
       alt="Codes18 GitHub Activity Graph"
       width="100%"
     />
