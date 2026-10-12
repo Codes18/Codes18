@@ -1,40 +1,138 @@
-<h1 align="center">Hi 👋, I'm Sajid Momin</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codes18&label=Profile%20views&color=0e75b6&style=flat" alt="codes18" /> </p>
+# 👋 Hey, I'm Sajid Momin
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes18" alt="codes18" /></a> </p>
+### Frontend Developer · React.js · WordPress · UI/UX
 
-- 🔭 I’m currently working on **Modern, responsive websites and web applications**
+I build modern, responsive, and user-friendly web experiences.
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Node.js, and modern web development**
+<a href="https://github.com/Codes18">
+  <img src="https://komarev.com/ghpvc/?username=Codes18&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/Codes18?tab=followers">
+  <img src="https://img.shields.io/github/followers/Codes18?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+</a>
+<img src="https://img.shields.io/github/repo-count/Codes18?style=for-the-badge&label=Public%20Repos&color=6f42c1" alt="Public repository count" />
+<a href="https://github.com/Codes18?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github" alt="Explore repositories" />
+</a>
 
-- 👯 I’m looking to collaborate on **Open-source projects, React applications, and frontend development projects**
+</div>
 
-- 🤝 I’m looking for help with **Advanced React.js, Next.js, and frontend performance optimization**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Codes18](https://github.com/Codes18)
+## 🚀 About Me
 
-- 💬 Ask me about **Frontend Developer**
+- 💻 Frontend Developer focused on building clean, accessible, and responsive interfaces.
+- ⚛️ Working with **HTML, CSS, JavaScript, React.js, Tailwind CSS, and WordPress**.
+- 🌱 Exploring **Next.js, TypeScript, and Node.js** to grow as a developer.
+- 🤝 Open to collaborating on frontend, React, WordPress, and open-source projects.
+- 🎯 I enjoy turning ideas and designs into polished web experiences.
+- 📫 Email: **[vivocodes18@gmail.com](mailto:vivocodes18@gmail.com)**
 
-- 📫 How to reach me **vivocodes18@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/Codes18](https://github.com/Codes18)
+## 🧰 Tech Stack
 
-- ⚡ Fun fact **I love turning creative ideas into beautiful, responsive websites! 🚀**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/codes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codes18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/codes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codes18" height="30" width="40" /></a>
-<a href="https://instagram.com/codes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codes18" height="30" width="40" /></a>
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,jquery&theme=dark" alt="Frontend technologies" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### CMS, Tools & Other Technologies
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,figma,postman,nodejs,mongodb,typescript&theme=dark" alt="Tools and technologies" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codes18&show_icons=true&locale=en&layout=compact" alt="codes18" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codes18&show_icons=true&locale=en" alt="codes18" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codes18&" alt="codes18" /></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Codes18">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Codes18&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics for Codes18" />
+</a>
+<a href="https://github.com/Codes18">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes18&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Codes18">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Codes18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Codes18">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codes18&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Codes18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" width="100%" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+Explore my public repositories and projects:
+
+<div align="center">
+
+<a href="https://github.com/Codes18?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+<a href="https://github.com/Codes18?tab=stars">
+  <img src="https://img.shields.io/badge/My%20Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=181717" alt="Starred projects" />
+</a>
+
+</div>
+
+**Tip:** Pin your best 4–6 repositories on your GitHub profile so visitors can find your strongest work quickly. To add project-stat cards here, use the exact repository names from your profile.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/codes18">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://dev.to/codes18">
+  <img src="https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
+</a>
+<a href="https://instagram.com/codes18">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:vivocodes18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Great interfaces make technology feel effortless.”
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect.*
+
+</div>
