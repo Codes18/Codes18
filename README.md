@@ -8,7 +8,13 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m <a target="_blank" href="https://linkedin.com/in/codes18"> @Sajid Momin </a>
 
-![Live Profile Views](https://views-counter.vercel.app/badge?pageId=codes18)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=codes18&label=Profile%20Views&color=2962FF&style=for-the-badge"
+    alt="Profile Views"
+    height="35"
+  />
+</p>
 
 - 💻 I'm a passionate **Frontend Developer** from India 🇮🇳
 - 🔭 I’m currently working on **Modern, responsive websites and web applications**
@@ -18,6 +24,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Codes18](https://github.com/Codes18)
 - 💬 Ask me about **Frontend Development & Web Technologies**
 - ⚡ Fun fact: **I love turning creative ideas into beautiful, responsive websites! 🚀**
+- 📈 GitHub Activity: **Active daily contributor — check out my contribution graph below!**
 - 📫 How to reach me: **vivocodes18@gmail.com** or DM me on LinkedIn / Instagram
 
 ---
@@ -38,11 +45,22 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" width="28px"/>&nbsp;Socials:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codes18)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codes18)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devdotto&logoColor=white)](https://dev.to/codes18)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vivocodes18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Codes18)
+<p align="left">
+  <a href="https://linkedin.com/in/codes18">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/codes18">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vivocodes18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Codes18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -273,13 +291,15 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
+### 📈 GitHub Contribution Activity Graph:
+
 <p align="center">
   <a href="https://github.com/Codes18">
     <img
-      src="https://activity-graph.vercel.app/graph?username=Codes18&theme=react-dark&area=true&hide_border=true&radius=16"
+      src="https://activity-graph.vercel.app/graph?username=Codes18&theme=react-dark&area=true&hide_border=true&radius=16&custom_title=GitHub%20Contribution%20Activity&color=FFFFFF"
       alt="Codes18 GitHub Activity Graph"
       width="100%"
-      style="max-width: 100%; height: auto; border-radius: 16px;"
+      style="max-width: 100%; height: auto; border-radius: 12px;"
     />
   </a>
 </p>
