@@ -30,15 +30,9 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me:
 
-- 🎨 **Creative Frontend Developer** with hands-on experience in modern web development
-- ⚡ Strong foundation in **HTML5, CSS3, JavaScript (ES6+), and TypeScript**
-- ⚛️ Skilled in building performant and responsive UIs with **React.js & Next.js**
-- 💅 Proficient in modern CSS styling and utility frameworks including **Tailwind CSS, Bootstrap, and Sass**
-- 🔄 Experience integrating frontend with backend APIs using **Node.js, Express.js, and MongoDB**
-- 🎨 UI/UX and graphic design proficiency with **Adobe Photoshop & Adobe Illustrator**
-- 🏗️ Focused on writing **clean, modular, scalable, and maintainable code**
-- 🚀 Continuously exploring modern web standards, UI animations, and performance optimization
-- 🤝 Open to **internships, freelance opportunities, and full-time Frontend Developer roles**
+I'm a creative Frontend Developer who loves turning ideas into fast, responsive, and visually polished web experiences. I have a strong foundation in **HTML5, CSS3, JavaScript (ES6+)** and **TypeScript**, and I build modern interfaces using **React.js** and **Next.js**. For styling, I work with **Tailwind CSS, Bootstrap** and **Sass**, and I connect frontends to backend APIs using **Node.js, Express.js** and **MongoDB**. With **Adobe Photoshop** and **Illustrator**, I bring a designer's eye to my work, balancing great UI/UX with clean, modular, and scalable code. I'm always exploring modern web standards, UI animations, and performance optimization.
+
+🤝 I'm currently open to **internships, freelance opportunities, and full-time Frontend Developer roles**.
 
 ---
 
